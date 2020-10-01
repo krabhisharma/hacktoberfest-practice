@@ -90,6 +90,7 @@ Questions can be asked by raising an `Issue`.
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
+- [Abhishek Kumar](https://github.com/Krabhisharma/)
 - [Abiola Farounbi✨](https://github.com/Abiola-Farounbi)
 - [Abuzer Asif](https://github.com/abuzerasif)
 - [Aditya Das](https://github.com/ThatOneBlodeKid)
